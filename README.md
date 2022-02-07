@@ -1,5 +1,5 @@
 # Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing
-This is the code for our CVPR 2021 paper "[Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing](https://arxiv.org/abs/2105.07553)", which formulates a flexible generative architecture for efficient and effective targeted hashing attack. In this repository, we not only provide the implementation of the proposed Prototype-supervised Adversarial Network (i.e., ProS-GAN), but also collect some popular deep hashing methods used in the paper and the previous targeted attack methods in hashing based retrieval.
+This is the code for [our CVPR 2021 paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.pdf) "Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing", which formulates a flexible generative architecture for efficient and effective targeted hashing attack. In this repository, we not only provide the implementation of the proposed Prototype-supervised Adversarial Network (i.e., ProS-GAN), but also collect some popular deep hashing methods used in the paper and the previous targeted attack methods in hashing based retrieval.
 
 ## Usage
 #### Dependencies
